@@ -10,8 +10,8 @@ Saya percaya bahwa sistem yang baik bukan hanya berjalan dengan benar, tetapi **
 ## 🧰 Tech Stack
 
 ### **Frontend**
-| HTML | CSS | JavaScript | jQuery | AJAX | Vue.js | React.js |
-|-----|-----|------------|--------|------|--------|----------|
+| HTML | CSS | JavaScript | Bootstrap | Tailwind | jQuery | AJAX | Vue.js | React.js |
+|-----|-----|------------|-----------|----------|--------|------|--------|----------|
 
 ### **Backend**
 | PHP | Laravel | REST API | Golang | NodeJS |
