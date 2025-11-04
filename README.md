@@ -1,10 +1,3 @@
-<!-- HEADER PROFILE -->
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=24&duration=3500&pause=700&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Ahmad+Akbar+👋;Full+Stack+Web+Developer;Server+%26+Network+Engineering+Enthusiast;Clean+Code+%7C+Scalable+Architecture+%7C+Linux+Ops" alt="Typing Intro" />
-</p>
-
----
-
 ## 💡 About Me
 
 Saya seorang **Full Stack Web Developer** yang berfokus pada pengembangan aplikasi modern berbasis **Laravel**, dengan pendekatan yang efisien, rapi, aman, dan berkelanjutan.  
