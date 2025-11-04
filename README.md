@@ -14,26 +14,20 @@ Saya percaya bahwa sistem yang baik bukan hanya berjalan dengan benar, tetapi **
 |-----|-----|------------|--------|------|--------|----------|
 
 ### **Backend**
-| PHP | Laravel | REST API | Authentication | Authorization | Middleware | Blade |
-|----|--------|-----------|----------------|---------------|------------|-------|
+| PHP | Laravel | REST API | Golang | NodeJS |
+|----|--------|-----------|--------|--------|
 
 ### **Database**
 | MySQL / MariaDB | MongoDB |
 |----------------|---------|
 
 ### **DevOps / System Administration**
-| Ubuntu | Debian | Nginx | Apache | aaPanel | CWP | SSL | Firewall Hardening |
-|-------|--------|-------|--------|--------|-----|-----|-------------------|
+| Ubuntu | Debian | Nginx | Apache | aaPanel | CWP |
+|-------|--------|-------|--------|--------|-----|
 
 ### **Networking**
 | Routing | Switching | Topology Planning | Bandwidth Allocation | Network Monitoring |
 |--------|-----------|------------------|----------------------|-------------------|
-
----
-
-## 🧱 Tools
-| Git | GitHub | VS Code | Postman | Docker (Basic) | PHP Composer | GitHub Actions (CI/CD Basic) |
-|----|---------|---------|---------|---------------|--------------|-----------------------------|
 
 ---
 
