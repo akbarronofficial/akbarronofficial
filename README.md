@@ -22,8 +22,8 @@ Saya percaya bahwa sistem yang baik bukan hanya berjalan dengan benar, tetapi **
 |----------------|---------|
 
 ### **DevOps / System Administration**
-| Ubuntu | Debian | Nginx | Apache | aaPanel | CWP |
-|-------|--------|-------|--------|--------|-----|
+| Ubuntu | Debian | Nginx | Apache | aaPanel | CWP | VPS | Hosting |
+|-------|--------|-------|--------|--------|-----|-----|---------|
 
 ### **Networking**
 | Routing | Switching | Topology Planning | Bandwidth Allocation | Network Monitoring |
