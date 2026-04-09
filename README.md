@@ -1,6 +1,6 @@
 ## 💡 About Me
 
-Saya seorang **Full Stack Web Developer** yang berfokus pada pengembangan aplikasi modern berbasis **Laravel**, dengan pendekatan yang efisien, rapi, aman, dan berkelanjutan.  
+Saya seorang **Full Stack Web Developer** yang berfokus pada pengembangan aplikasi modern **Laravel**, **Golang**, dengan pendekatan yang efisien, rapi, aman, dan berkelanjutan.  
 Selain itu, saya memiliki pengalaman dalam **administrasi server Linux** baik untuk deployment, hardening, automation, scaling hingga optimasi performa.
 
 Saya percaya bahwa sistem yang baik bukan hanya berjalan dengan benar, tetapi **mudah dipelihara & scalable**.
